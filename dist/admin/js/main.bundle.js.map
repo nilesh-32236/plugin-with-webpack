@@ -1,0 +1,1 @@
+{"version":3,"file":"admin/js/main.bundle.js","mappings":"mBAEAA,QAAQC,IAAK,Q","sources":["webpack://task-manager-plugin/./admin/js/main.js"],"sourcesContent":["import '../css/main.scss';\n\nconsole.log( 'hello' );\n"],"names":["console","log"],"sourceRoot":""}
